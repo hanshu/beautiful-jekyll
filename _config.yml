@@ -57,14 +57,14 @@ avatar: "/img/avatar-icon.png"
 author:
   name: hans
   email: "hyh961@gmail.com"
-  facebook: yourname  # eg. daattali
+  #facebook: yourname  # eg. daattali
   github: hanshu    # eg. daattali
-  twitter: yourname   # eg. daattali
+  twitter: huyh   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
+  linkedin: hyh961  # eg. daattali
   #xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
+  stackoverflow: 9155453/hans  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
   #instagram: yourname # eg. daattali
   #youtube: yourlink   # eg. user/daattali or channel/daattali
