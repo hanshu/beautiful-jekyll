@@ -111,10 +111,10 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "2253620421"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-N9P6TMR"
 
 # Facebook App ID
 # fb_app_id: ""
